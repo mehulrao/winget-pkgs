@@ -1,0 +1,17 @@
+Id: NitroShare.NitroShare
+Version: 0.3.4
+Name: NitroShare
+Publisher: NitroShare
+License: MIT
+LicenseUrl: https://opensource.org/licenses/MIT
+AppMoniker: nitroshare
+Description: Cross-platform Network File Transfer Application
+Homepage: https://nitroshare.net/
+Installers:
+  - Arch: x64
+    Url: https://launchpad.net/nitroshare/0.3/0.3.4/+download/nitroshare-0.3.4-windows-x86_64.exe
+    Sha256: 0816AA1147F66D09B5AF96170AB34361516A58A98D98470025B285ADE71CA358
+    InstallerType: exe
+    Switches:
+        Silent: /Silent
+        SilentWithProgress: /Silent
