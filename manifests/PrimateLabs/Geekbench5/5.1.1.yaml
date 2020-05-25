@@ -1,0 +1,14 @@
+Id: PrimateLabs.Geekbench5
+Version: 5.1.1
+Name: Geekbench 5
+Publisher: Primate Labs
+License: Copyright Â© 2004-2019 Primate Labs Inc
+LicenseUrl: https://www.primatelabs.com/legal/terms-of-use.html
+AppMoniker: Geekbench 5
+Description: cross-platform benchmark that measures a system's performance
+Homepage: https://www.geekbench.com/
+Installers:
+  - Arch: x86
+    Url: http://cdn.geekbench.com/Geekbench-5.1.1-WindowsSetup.exe
+    Sha256: E3934ECA54DB9E5B2DDCF1622A7D801AC69C49534CE7BBC57539F24A3E5296B5
+    InstallerType: exe
