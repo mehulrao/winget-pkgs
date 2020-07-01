@@ -1,1 +1,1 @@
-find -type f -exec enca -x UTF8 -L none {} \;
+find -type f -exec enca -V -x UTF-8 -L none {} \;
